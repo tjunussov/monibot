@@ -9,3 +9,8 @@ Alert events
 - restart
 - availability
 - http services down
+
+## Ideas
+- Events bot
+- Games UI?
+- Add Google Analytics for Reporting
